@@ -5,9 +5,10 @@ It uses a DHT sensor to detect the humidity and temperature in the environment e
 
 ## Tools used
 
-An Arduino board
+An Arduino compatible board
 Breadboard
 Jumper wires(3)
+DHT sensor
 
 ## Library used
 
